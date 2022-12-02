@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>HISTORIA DE ESPAÑA</title>
+	<link rel="icon" href="espana.ico">
+	<style type="text/css">
+	*{
+		margin: 0px;/*elimina margenes predeterminado*/
+	}
+	#contenedor{
+		width: 80%;
+		margin: auto;/*alinear al centro*/
+		border-radius: 20px;/*redonder esquinas del contenedor*/
+		overflow: hidden;/*sirve para redonder equinas del contenedor superior e inferior*/
+
+	}
+	body{
+	background-image: url(16049.jpg);/*Insertar imagen de fondo*/	
+	background-attachment: fixed;/*Fijar imagen de fondo*/
+	background-size: 100%;/*ampliar imagen al tamaño de la pantalla*/
+	background-position: center;/*alinear imagen al centro de la pantalla*/
+
+	}
+	header{
+		height: 120px;/*altura*/
+		background-color: rgba(255, 165, 0,0.7);
+		line-height: 120px;/*alinear línea de textzo en medio del header*/
+		letter-spacing: 20px;/*separación de las letras */
+		color: #fff;/*color de textio*/
+		text-align: center;/*alinear texto al centro*/
+		text-shadow: 2px 2px 3px #FFFFFF;/*sombra de texto*/
+	}
+	nav{
+
+		height: 70px;
+		background-color: #fff;
+		line-height: 70px;
+	}
+	nav ul{
+		float: center;/*alinear a la izquierda*/
+		position: relative;/*sirve para mover el contenedor completo*/
+	}
+	nav li{
+		display: inline-block;/*alinear de manera horizontal*/
+		float: center;
+		position: relative;
+		left:10% ;/*sirve para mover el menú*/
+
+	}
+	nav li a{
+			color: green;
+			text-decoration: none;/*sirve para eliminar la línea del enlace*/
+			margin-right: 15px;
+			margin-left: 15px;
+			font-size: 15px;
+			font-family:Baskerville Old Face ;/*tipo de letra*/
+			font-weight: bold;/*negritas*/
+		}
+		nav a:hover{/*efecto al pasar el mouse*/
+
+
+			border-radius: 10px;/*redondear esquinas*/
+			padding: 8px;/*separar texto del contenedor*/
+			border: 2px solid black;/*borde */
+		}
+		section{
+			height: auto;/*altura automatica*/
+			background-color:rgba(104, 0, 0,0.8)
+
+;/*color de fondo con transparencia*/
+            color: #fff;
+			padding: 20px;
+		}
+		footer{
+			height: 60px;
+			background-color: #88E2FF;
+			line-height: 60px;
+			text-align: center;
+
+		}
+		cite{
+			color: #Fff;
+			font-size: 20px;
+			font-weight: bold;/*Texto en negritas*/
+		}
+		section p{
+			margin-top: 10px;
+			font-size: 16px;
+			font-family: Arial;
+			text-align: justify;
+		}
+		section h2{
+			color: white;
+			text-align: center;
+			text-shadow: 2px 2px 3px #000;
+		}
+		section h3{
+			color: orange;
+			text-align: center;
+			text-shadow: 2px 2px 3px #000;
+			}
+
+
+		</style>
+		
+</head>
+<body vlink="yellow">
+	<div id="contenedor">
+	<header>
+		<h1>ESPAÑA</h1>
+	</header>
+	<nav>
+		<!--Menú -->
+		<ul>
+		<li><h3><a href="España YAEL Semestrall.html"><font color="red">HISTORIA</font></a></h3></li>
+			<li><a href="ESPAÑA2.html"><font color="red">ETNIAS</font></a></li>
+			<li><a href="ESPAÑA3.html"><font color="red">ESTADOS</font></a></li>
+			<li><a href="ESPAÑA4.html"><font color="red">LUGARES TURISTICOS</font></a></li>
+			<li><a href="ESPAÑA5.html"><font color="red">GASTRONOMIA</font></a></li>
+			<li><a href="ESPAÑA6.html"><font color="red">MONUMENTOS HISTORICOS</font></a></li>
+
+			
+		</ul>
+		</nav>
+	<section>
+		
+		
+	
+
+	<p><font color="white"><h3>España, país de la península ibérica de Europa, incluye 17 regiones autónomas con diversas características geográficas y culturales. En Madrid, su capital, se encuentra el Palacio Real y el Museo del Prado, que alberga obras de maestros europeos. Segovia tiene un castillo medieval (el Alcázar) y un acueducto romano intacto. La capital de Cataluña, Barcelona, se caracteriza por las obras modernistas extravagantes de Antoni Gaudí, como el templo de la Sagrada Familia.</h3></font></p>
+	<center><img src="https://st.depositphotos.com/1609126/3697/i/600/depositphotos_36971429-stock-photo-spain-flag.jpg" width="300px" height="165px" align="left"></center>
+
+	<h3><p><font color="white">Los primeros homínidos llegaron al territorio de la actual España hace 1,2 millones de años aproximadamente. Se sucedieron varias especies, como Homo antecessor, los preneandertales de la Sima de los Huesos (identificados en un principio como Homo heidelbergensis) y los neandertales (Homo neanderthalensis), hasta que hace unos 35 000 años los humanos modernos (Homo sapiens) entraron en la península ibérica y fueron desplazando a estos últimos, con los que aún coexistirían durante cerca de 10 000 años. Hace unos 27 000 años se extinguieron las últimas poblaciones neandertales en el sur. 
+		<p>Durante los milenios siguientes el territorio fue lugar de asentamiento de pueblos íberos, celtas, fenicios, cartagineses y griegos y hacia el 200 a. C. la península comenzó a formar parte de la República romana, constituyendo la Hispania romana. Tras la caída de Roma, se estableció el Reino visigodo. Dicha monarquía visigótica se inició en el siglo v y se mantuvo hasta comienzos del siglo viii. En el año 711 se produjo la primera conquista musulmana desde el Norte de África; en pocos años el islam dominaba gran parte de la península ibérica.</p>
+		<p> Durante los 750 años siguientes, el reino dominado por musulmanes sería conocido como al-Ándalus, y mientras gran parte del resto de Europa permanecía en los años oscuros, Al-Ándalus experimentaba un esplendoroso florecimiento multicultural, científico y artístico.</p></font></p></h3>
+
+	<a href="https://es.wikipedia.org/wiki/Historia_de_Espa%C3%B1a"target="_blank" ><font color="orange">PARA MAS INFORMACION...</font></a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</ol>
+</section>
+	<footer>
+		<cite>Hecho por: Yael Pasos  </cite>
+	</footer>
+	</div>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+</center>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			
+
+		
+
+
+
+
+
+
+
+
+		
+
+
+</head>
+<body>
+	
+</body>
+</html>
